@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+.flexslider .slides img {
+    width: 30%;
+    margin-left: 400px;
+    height:300px;
+}

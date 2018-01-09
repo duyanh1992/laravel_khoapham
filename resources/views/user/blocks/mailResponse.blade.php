@@ -1,0 +1,1 @@
+Chúng tôi đã nhận được ý kiến của bạn. Chúng tôi sẽ cố gắng trả lời trong thời gian sớm nhất {{ $name }} và {{ $msg }}
